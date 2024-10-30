@@ -25,6 +25,6 @@ class Searching_in_unsorted_array {
         if(position == -1)
             System.out.println("Element not found");
         else 
-            System.out.println("Element found at position");
+            System.out.println("Element found at position " +(position +1));
     }
 }
